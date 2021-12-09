@@ -6,6 +6,8 @@
 # import Bot from instabot to interact with instagram
 from instabot import Bot
 
+# from os import remove
+# remove("E:/Files/Others/Python/Instabot/config/.....json")
 
 # Instance of Bot
 bot = Bot()
