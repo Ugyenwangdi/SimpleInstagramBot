@@ -46,7 +46,7 @@ bot.logout()
 
 
 
-# ################# We can also user instapy to create instabot
+# ################# We can also use instapy to create instabot
 
 # # first install instapy, use: pip install instapy 
 
