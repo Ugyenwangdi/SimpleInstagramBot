@@ -7,5 +7,9 @@ following and unfollowing users in instagram
 
 Installation:
 
+<<<<<<< HEAD
 $ pip install instabot
 
+=======
+$ pip install instabot
+>>>>>>> bbaed8f (instagram bot codes updated)
